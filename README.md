@@ -50,8 +50,3 @@
     - page 1,2 만들기
     - Page1.jsx, Pag2.jsx 분리
     - ./src/router 폴더 만들고 index.jsx 만들어 분리
-
-
-
-
-
