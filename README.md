@@ -41,5 +41,17 @@
   ```
 
 
+  ## git-hub / organizations 익숙해지기
+  ```
+  0. repository 생성
+  1. main branch에 app 파일 업로드
+  2. 각 팀원들 issue 부여
+    - npm i react-router
+    - page 1,2 만들기
+    - Page1.jsx, Pag2.jsx 분리
+    - ./src/router 폴더 만들고 index.jsx 만들어 분리
+
+
+
 
 
