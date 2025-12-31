@@ -25,6 +25,9 @@
   
   git fetch origin
   git checkout 최윤우 // branch변경
+
+  git checkout -b [신규 branch 이름] // 로컬에서만 생성
+  
   ```
   
   ## branch 이름 변경
