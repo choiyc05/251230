@@ -54,3 +54,12 @@
     - Page1.jsx, Pag2.jsx 분리
     - ./src/router 폴더 만들고 index.jsx 만들어 분리
   ```
+
+  ## 저장소 연결 / 연결 삭제
+  ```
+  git remote add origin (원격저장소 주소) // 원격 저장소 연결 
+  git remote -v                         // 연결된 원격 저장소 확인
+  git remote rm origin                  // 기존 원격 저장소와의 연결 삭제
+
+  git pull origin (브랜치이름) // 원격 저장소 파일 가져오기
+  ```
